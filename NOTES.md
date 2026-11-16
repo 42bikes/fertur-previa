@@ -39,7 +39,9 @@ python -m http.server 4392 --bind 127.0.0.1
 - Criada a variável `--accent-ink` (verde `#0b7a3e`) para eyebrows, títulos manuscritos e labels.
 - Sombras, linhas e rodapé recoloriados do navy/laranja original para verde, sem deixar resíduo.
 - Seção de depoimentos substituída por "Por que a Fertur" (4 cards) + link para avaliações reais.
-- Faixa de números usa apenas dados verificáveis: 15 lugares, 2 modelos, 3 passeios, base na Orla.
+- Faixa de números usa apenas dados verificáveis: 15 lugares, 2 modelos, 20+ anos, base na Orla.
+- Nota do Google (4,5 · 79 avaliações) e horário (7h–21h) vieram da ficha pública do Google Maps
+  em 04/11/2026 — revisar se o cliente pedir atualização. Endereço: ver `DADOS-E-COMPARACAO.md`.
 
 ## Verificação
 
